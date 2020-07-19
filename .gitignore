@@ -1,6 +1,6 @@
 
-
-data/*
+input/data/ner.csv 
+input/data/*
 .vscode
 model.bin
 
